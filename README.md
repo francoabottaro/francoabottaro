@@ -1,4 +1,4 @@
-# ```js const presentation = 'Hola. Soy Franco Bottaro'```
+# ```const presentation = 'Hola. Soy Franco Bottaro'```
 
 ---
 
@@ -8,7 +8,7 @@ Hola este es mi perfil de _Git_, Soy un Programador autodidacta enfocado en Apli
 
 <br>
 
-## ```js return Contacto():```
+## ```return Contacto():```
 
 ---
 
