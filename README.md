@@ -10,8 +10,6 @@ Hola este es mi perfil de _Git_, Soy un Programador autodidacta enfocado en Apli
 
 ## ```return Contacto():```
 
----
-
 - LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/franco-adolfo-bottaro-4a1499193)
 - Email: **_francoabottaro@gmail.com_**
 -->
