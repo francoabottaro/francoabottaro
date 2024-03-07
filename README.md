@@ -14,7 +14,7 @@ const Tecnologias ()=>(
     SQL, PostgreSQL, Sequelize, Prisma
   }
   const frontEnd= {
-    React, React-Router-DOM, Redux, ReduxToolkit, React-Redux.
+    React, React-Router-DOM, Redux, ReduxToolkit, React-Redux
   }
 
   // Objeto de Habilidades Tecnica 😉
