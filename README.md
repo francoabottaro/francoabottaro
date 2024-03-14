@@ -1,26 +1,25 @@
-# ```const presentation = 'Hola. Soy Franco Bottaro'``` 🧑🏻‍💻
+<h1 align="center"> 
+  Hola, <a href="https://www.linkedin.com/in/franco-adolfo-bottaro/">Soy Franco Bottaro 🧑🏻‍💻</a>
+</h1>
+
+<img src="./git.jpeg"/>
+
+<br/>
+
+## Sobre mi:
 Full-Stack con tendencia al Back-End, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza, con cierto gusto a temas muy sociales diversos sin llegar a profundizar.
 
-## Habilidades tecnicas: 
-```
-const Tecnologias ()=>(
-  const generales={
-    HTML, CSS, JavaScript, TypeScript,Axios, Fetch, Git, GitHub, GitFlow, MarkDown
-  }
-  const backEnd= {
-    Protocolos HTTP, NodeJs, Express, NestJS
-  }
-  const dataBase= {
-    SQL, PostgreSQL, Sequelize, Prisma
-  }
-  const frontEnd= {
-    React, React-Router-DOM, Redux, ReduxToolkit, React-Redux
-  }
+<br/>
 
-  // Objeto de Habilidades Tecnica 😉
-  return {genetales, backEnd, dataBase, frontEnd}
-)
-```
+## Habilidades tecnicas: 
+### Conocimientos:
+Back-End: Protocolos HTTP, NodeJs, Express, NestJS, Web-Socket
+
+Data-Base: SQL, PostgreSQL, Sequelize, Prisma
+
+Front-End: React, React-Router-DOM, Redux, ReduxToolkit, React-Redux
+
+Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch,  Axios, Git, GitHub, GitFlow, MarkDown
 <br/>
 
 ## Contacto:
