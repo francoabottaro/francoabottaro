@@ -15,7 +15,7 @@ Back-End: Protocolos HTTP, NodeJs, Express, NestJS, Web-Socket
 
 Data-Base: SQL, PostgreSQL, Sequelize, Prisma
 
-Front-End: React, React-Router-DOM, Redux, ReduxToolkit, React-Redux
+Front-End: React, Redux, ReduxToolkit, React-Redux
 
 Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch,  Axios, Git, GitHub, GitFlow, MarkDown
 <br/>
