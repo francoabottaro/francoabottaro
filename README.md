@@ -6,7 +6,7 @@
 
 
 ## Sobre mi:
-Full-Stack, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza, con cierto gusto a temas muy sociales diversos sin llegar a profundizar.
+Full-Stack, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza.
 
 
 ## Habilidades tecnicas: 
