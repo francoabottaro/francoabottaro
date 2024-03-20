@@ -23,5 +23,3 @@ Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git, GitFlow, 
 ## Contacto:
 - LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/franco-adolfo-bottaro) <br/>
 - Email: **_francoabottaro@gmail.com_**
-
-## Gracias por leer mi README <br/>
