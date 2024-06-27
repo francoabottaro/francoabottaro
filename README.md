@@ -11,15 +11,13 @@ Full-Stack, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curio
 
 ## Habilidades tecnicas: 
 ### Conocimientos:
-Back-End: Protocolos HTTP, NodeJs, Express, NestJS, Web-Socket
+Back-End: Protocolos HTTP, NodeJs, Express, NestJS y Web-Socket.
 
-Data-Base: SQL, PostgreSQL, Sequelize, Prisma
+Data-Base: SQL, PostgreSQL, Sequelize y Prisma.
 
-Front-End: React, Redux, ReduxToolkit, TailwindCSS, Zustand
-
-Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git, GitFlow, MarkDown
+Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git, GitFlow y MarkDown.
 <br/>
 
 ## Contacto:
-- LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/franco-adolfo-bottaro) <br/>
+- LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/francoabottaro/) <br/>
 - Email: **_francoabottaro@gmail.com_**
