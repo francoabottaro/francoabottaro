@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hola, <a href="https://www.linkedin.com/in/francoabottaro/" target="_blank">Soy Franco Bottaro 🧑🏻‍💻</a>
+  Hola, <a href="https://www.linkedin.com/in/francoabottaro/" target="blank">Soy Franco Bottaro 🧑🏻‍💻</a>
 </h1>
 
 <img src="./git.png"/>
