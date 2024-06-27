@@ -2,7 +2,7 @@
   Hola, <a href="https://www.linkedin.com/in/franco-adolfo-bottaro/">Soy Franco Bottaro 🧑🏻‍💻</a>
 </h1>
 
-<img src="./git.jpeg"/>
+<img src="./git.png"/>
 
 
 ## Sobre mi:
