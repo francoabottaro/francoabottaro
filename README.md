@@ -13,9 +13,9 @@ Full-Stack, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curio
 ### Conocimientos:
 Back-End: Protocolos HTTP, NodeJs, Express, NestJS y Web-Socket.
 
-Data-Base: SQL, PostgreSQL, Sequelize y Prisma.
+Data-Base: NoSQL, MongoDB, SQL, PostgreSQL, Sequelize y Prisma.
 
-Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git, GitFlow y MarkDown.
+Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git y Docker.
 <br/>
 
 ## Contacto:
