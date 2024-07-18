@@ -6,7 +6,7 @@
 
 
 ## Sobre mi:
-Back-End, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza.
+Desarrollador Back-End, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza.
 
 
 ## Habilidades tecnicas: 
