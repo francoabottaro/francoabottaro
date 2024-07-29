@@ -15,7 +15,7 @@ Back-End: Protocolos HTTP, NodeJs, Express, NestJS y Web-Socket.
 
 Data-Base: NoSQL, MongoDB, SQL, PostgreSQL, Sequelize y Prisma.
 
-Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Git y Docker.
+Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Jest,Git y Docker.
 <br/>
 
 ## Contacto:
