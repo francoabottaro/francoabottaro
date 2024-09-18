@@ -1,23 +1,25 @@
 <h1 align="center"> 
-  Hola, <a href="https://www.linkedin.com/in/francoabottaro/">Soy Franco Bottaro 🧑🏻‍💻</a>
+  Hola, Soy Franco Bottaro <a href="#"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZldjR3eWlpMnptd2I0NDZuZmI1YnZwM294bmd1dGM1c25jMnM4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></a>
 </h1>
 
-<img src="./git.png"/>
+<a href="#"><img src="./git.webp"/></a>
 
 
-## Sobre mi:
-Desarrollador Back-End, en constante aprendizaje y de caracter Pro-Activo y Re-Activo. Curioso de naturaleza.
+## Sobre mi 😌:
 
+Desarrollador Back-End con JavaScript y TypeScript🛡️
 
-## Habilidades tecnicas: 
-### Conocimientos:
-Back-End: Protocolos HTTP, NodeJs, Express, NestJS y Web-Socket.
+Autididacta, curioso y extrovertido 🪄
 
-Data-Base: NoSQL, MongoDB, SQL, PostgreSQL, Sequelize y Prisma.
+## Tecnologias principales
 
-Complementarias: HTML, CSS, JavaScript, TypeScript, Fetch, Axios, Jest,Git y Docker.
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/express-js--v1.png"/></a> <a href="#"><img src="https://img.icons8.com/?size=48&id=7xG5LhKApf4C&format=png&color=000000"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+
+<a href="#"><img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a> <a href="#"><img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png&color=000000"/></a> 
+
+<a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a> <a href="#"><img src="https://img.icons8.com/color/48/000000/github.png"/></a> <a href="#"><img src="https://img.icons8.com/?size=48&id=22813&format=png&color=000000"/></a>
 <br/>
 
 ## Contacto:
-- LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/francoabottaro/) <br/>
+- LinkedIn: [Franco Adolfo Bottaro](https://www.linkedin.com/in/francoabottaro/)<br/>
 - Email: **_francoabottaro@gmail.com_**
