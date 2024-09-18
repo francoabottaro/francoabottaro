@@ -7,6 +7,8 @@
 
 ## Sobre mi 😌:
 
+Me llamo Franco Bottaro y Soy de Argentina <a href="#"><img src="https://img.icons8.com/?size=13&id=uYpkanQ7g1gl&format=png&color=000000"></a> .
+
 Desarrollador Back-End con JavaScript y TypeScript🛡️
 
 Autididacta, curioso y extrovertido 🪄
