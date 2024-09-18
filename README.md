@@ -27,6 +27,5 @@ Autididacta, curioso y extrovertido 🪄
 <br/>
 
 ## Contacto:
-- LinkedIn: **<a href="https://www.linkedin.com/in/francoabottaro/" target="_blank">Franco Adolfo Bottaro</a>**
-<br/>
+- LinkedIn: **<a href="https://www.linkedin.com/in/francoabottaro/" target="_blank">Franco Adolfo Bottaro</a>**<br/>
 - Email: **_francoabottaro@gmail.com_**
