@@ -11,7 +11,7 @@ Me llamo Franco Bottaro y Soy de Argentina <a href="#"><img src="https://img.ico
 
 Desarrollador Back-End con JavaScript y TypeScript🛡️
 
-Autididacta, curioso y extrovertido 🪄
+Autididacta, curioso y extrovertido 
 
 ## Tecnologias principales
 
