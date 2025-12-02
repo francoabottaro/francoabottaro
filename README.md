@@ -7,6 +7,7 @@
   <img src="./git.webp" />
 </p>
 
+---
 ## Sobre mí 😌
 
 Soy Franco Bottaro, de Argentina <img src="https://img.icons8.com/?size=13&id=uYpkanQ7g1gl&format=png&color=000000">.
@@ -31,8 +32,8 @@ Autodidacta, curioso y siempre buscando mejorar mis habilidades técnicas.
 | **ORM/ODM** | ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge) |
 | **Herramientas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
 </div>
----
 
+---
 ## Contacto 📬
 
 - **LinkedIn:**  
@@ -43,5 +44,5 @@ Autodidacta, curioso y siempre buscando mejorar mis habilidades técnicas.
 
 ---
 
-### 🔗 Perfil de GitHub  
+## 🔗 Perfil de GitHub  
 https://github.com/francoabottaro/francoabottaro
