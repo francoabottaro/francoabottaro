@@ -8,7 +8,7 @@
 </p>
 
 ---
-## Sobre mí 😌
+## Sobre mí 🧑🏻
 
 Soy Franco Bottaro, de Argentina <img src="https://img.icons8.com/?size=13&id=uYpkanQ7g1gl&format=png&color=000000">.
 
