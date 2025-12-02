@@ -14,7 +14,7 @@ Soy Franco Bottaro, de Argentina <img src="https://img.icons8.com/?size=13&id=uY
 
 Soy **Full Stack Developer**, aunque mi mayor fortaleza está en el **Backend**, donde trabajo con arquitectura modular, diseño de APIs, autenticación, relaciones complejas y buenas prácticas con TypeScript.
 
-También cuento con **nociones y práctica en Angular** para complementar el desarrollo Full Stack dentro del ecosistema TypeScript.
+También cuento con **nocion práctica en Angular** para complementar el desarrollo Full Stack dentro del ecosistema TypeScript.
 
 Autodidacta, curioso y siempre buscando mejorar mis habilidades técnicas.
 
