@@ -12,7 +12,7 @@
 
 Franco Bottaro, de Argentina <img src="https://img.icons8.com/?size=13&id=uYpkanQ7g1gl&format=png&color=000000">.
 
-Desarrollador Full Stack apasionado por construir productos digitales robustos y escalables. Mi enfoque principal reside en el Backend, donde me especializo en diseñar arquitecturas modulares, APIs seguras y sistemas resilientes utilizando TypeScript como lenguaje principal y Go para tareas de alto rendimiento.
+Desarrollador Full Stack apasionado por construir productos digitales robustos y escalables. Mi enfoque principal reside en el Backend, donde me especializo en diseñar arquitecturas modulares, APIs seguras utilizando TypeScript como lenguaje principal y Go para tareas de alto rendimiento.
 
 ---
 
