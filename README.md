@@ -1,6 +1,5 @@
 <h1 align="center"> 
   Hi, i am Franco Bottaro 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZldjR3eWlpMnptd2I0NDZuZmI1YnZwM294bmd1dGM1c25jMnM4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="25">
 </h1>
 
 <p align="center">
